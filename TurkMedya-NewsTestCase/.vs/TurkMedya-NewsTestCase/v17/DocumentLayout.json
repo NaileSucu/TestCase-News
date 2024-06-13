@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|c:\\users\\naile\\source\\repos\\turkmedya-newstestcase\\newsui\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|solutionrelative:newsui\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|c:\\users\\naile\\source\\repos\\turkmedya-newstestcase\\newsui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|solutionrelative:newsui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|c:\\users\\naile\\source\\repos\\turkmedya-newstestcase\\newsui\\views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|solutionrelative:newsui\\views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|c:\\users\\naile\\source\\repos\\turkmedya-newstestcase\\newsui\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|solutionrelative:newsui\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|c:\\users\\naile\\source\\repos\\turkmedya-newstestcase\\newsui\\viewmodels\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CA5817-0CF7-4C29-99C0-A5698AD92EC4}|NewsUI\\NewsUI.csproj|solutionrelative:newsui\\viewmodels\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\appsettings.json",
+              "RelativeToolTip": "NewsUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:22:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Controllers\\DetailController.cs",
+              "RelativeDocumentMoniker": "NewsUI\\Controllers\\DetailController.cs",
+              "ToolTip": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Controllers\\DetailController.cs",
+              "RelativeToolTip": "NewsUI\\Controllers\\DetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:22:20.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\ViewModels\\PageViewModel.cs",
+              "RelativeDocumentMoniker": "NewsUI\\ViewModels\\PageViewModel.cs",
+              "ToolTip": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\ViewModels\\PageViewModel.cs",
+              "RelativeToolTip": "NewsUI\\ViewModels\\PageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:20:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Views\\MainPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsUI\\Views\\MainPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Views\\MainPage\\Index.cshtml",
+              "RelativeToolTip": "NewsUI\\Views\\MainPage\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAJkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T23:20:06.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageController.cs",
+              "DocumentMoniker": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Controllers\\MainPageController.cs",
+              "RelativeDocumentMoniker": "NewsUI\\Controllers\\MainPageController.cs",
+              "ToolTip": "C:\\Users\\naile\\source\\repos\\TurkMedya-NewsTestCase\\NewsUI\\Controllers\\MainPageController.cs",
+              "RelativeToolTip": "NewsUI\\Controllers\\MainPageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:16:09.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

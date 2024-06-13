@@ -1,0 +1,54 @@
+﻿@using EntityLayer.Concrete
+@model DetailNew
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haber Sayfası</title>
+</head>
+<body>
+    <div class="video">
+        <h2>{@Model.Video.Title}</h2>
+        <video src="{{Model.Video.VideoUrl}}" controls></video>
+    </div>
+    <div class="header-ad">
+        <img src="@Model.Video.ImageUrl" alt="Header Ad" />
+    </div>
+    <div class="news-detail">
+        <h2>@Model.NewsDetail.Title</h2>
+        <p>@Html.Raw(Model.NewsDetail.BodyText)</p>
+        @if (Model.NewsDetail.HasPhotoGallery)
+        {
+            <div class="photo-gallery">
+                <h3>Photo Gallery</h3>
+                <img src="@Model.NewsDetail.ImageUrl" alt="News Image" />
+            </div>
+        }
+        @if (Model.NewsDetail.HasVideo)
+        {
+            <div class="video">
+                <h3>Video</h3>
+                <video src="@Model.NewsDetail.Video" controls></video>
+            </div>
+        }
+    </div>
+    <div class="footer-ad">
+        <img src="@Model.PhotoGallery.ImageUrl" alt="Footer Ad" />
+    </div>
+    <div class="related-news">
+        <h2>Related News</h2>
+        <ul>
+
+           
+                <div class="image-gallery">
+
+                    <img src="@Model.RelatedNews.ImageUrl" alt="@Model.RelatedNews.Title" />
+                    
+                </div>
+            
+        </ul>
+    </div>
+</body>
+</html>
